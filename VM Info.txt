@@ -1,0 +1,659 @@
+Rohan
+------------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user01
+
+     VNC access:   132.145.26.52:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Sudhansu Gupta
+------------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user10
+
+     VNC access:   132.145.18.153:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Ruturaj
+-------------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user07
+
+     VNC access:   140.238.99.225:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Akhilesh
+-------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user04
+
+     VNC access:   132.145.30.219:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Pranav
+---------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user03
+
+     VNC access:   132.145.31.19:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Chirag
+------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user20
+
+     VNC access:   140.238.97.235:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Snehal
+-----------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user11
+
+     VNC access:   132.145.25.180:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Priyanka
+-------------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user30
+
+     VNC access:   132.145.14.160:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Raunak Kumar
+--------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user16
+
+     VNC access:   152.67.150.188:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Ross
+------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user12
+
+     VNC access:   140.238.94.48:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Dillon
+--------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user21
+
+     VNC access:   132.145.65.241:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Max
+------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user06
+
+     VNC access:   152.67.131.131:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Ayush
+-----------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user13
+
+     VNC access:   152.67.134.13:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Sumit
+---------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user29
+
+     VNC access:   132.226.214.246:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Rahul
+--------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user18
+
+     VNC access:   130.162.184.113:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Krati
+-------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user17
+
+     VNC access:   152.67.133.102:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Satyam
+--------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user15
+
+     VNC access:   130.162.162.130:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Prem
+--------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user31
+
+     VNC access:   130.162.160.177:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Khooshi
+--------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user16
+
+     VNC access:   150.230.126.186:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Adarsh
+--------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user22
+
+     VNC access:   152.67.149.48:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Aryan
+-------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user27
+
+     VNC access:   132.145.74.217:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Swarnim
+------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user11
+
+     VNC access:   132.145.46.187:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Shruti
+------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user02
+
+     VNC access:   140.238.73.161:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Abhishek
+------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user03
+
+     VNC access:   132.145.34.204:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Raunak Khandelwal
+------------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user07
+
+     VNC access:   140.238.92.104:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Anuj
+---------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user12
+
+     VNC access:   140.238.79.17:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Syed
+-----------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user28
+
+     VNC access:   132.145.38.185:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Rohit
+------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user05
+
+     VNC access:   132.145.72.90:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Kaushal
+--------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user09
+
+     VNC access:   132.145.37.224:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
+#################################################################
+Priyansh
+----------------
+<p>
+<b>Instructions to connect to the environment:</b>
+<p>
+* If you are accessing the lab environment <b>WITHOUT</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/NoProxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+* If you are accessing the lab environment <b>WITH</b> a proxy : Click <a href=https://learning.oracle.com/public_content/ohr/Proxy_Java_OPC_COMPUTE_support_guide.pdf target="_blank">here</a>
+<p>
+#################################################################
+                   Developing Applications for the Java EE 7 Platform Ed 1 LVC
+
+                   Event ID 99234475
+                   User - 99234475-user13
+
+     VNC access:   132.145.37.67:5901
+     VNC password: 99234475
+
+               O.S. username: oracle
+               O.S. password: OU99234475
+
